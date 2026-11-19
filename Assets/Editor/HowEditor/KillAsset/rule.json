@@ -1,0 +1,10 @@
+{
+  "entryPaths": [
+    "Assets/TDR/Assets/Scenes"
+  ],
+  "targetAssetPath": "Assets/TDR/Assets/Environment",
+  "ignoreRules": [
+   
+  ]
+}
+

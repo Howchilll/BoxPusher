@@ -1,0 +1,14 @@
+{
+    "name": "BoxPusher.Sim",
+    "rootNamespace": "BoxPusher.Sim",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
